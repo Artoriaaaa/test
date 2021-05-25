@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to CCTip, a digital currency tipping tool. It currently runs on Twitter, Telegram, Reddit and Discord, and will support more platforms in the future.
+Welcome to CCTip! CCTip is a crypto currency tip tool. CCTip currently support 5 platforms including Twitter, Telegram, Reddit and Discord, and will support more platforms in the future.
 
 **Click to view the user’s guide of the corresponding platform:**
 
